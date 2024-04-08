@@ -1,0 +1,58 @@
+header{
+	background: black;
+}
+body{
+	background: linear-gradient(black, purple, black);
+}
+h1{
+	font-size: 50px;
+	color: white;
+}
+nav li{
+	display: inline;
+	padding: 0 0 0 20px;
+}
+nav a{
+	color: white;
+	font-weight: bold;
+	font-size: 30px;
+	text-decoration: none;
+}
+nav a{
+	color: green;
+	text-decoration: underline;
+}
+h2{
+	font-size: 50px;
+	color: white;
+}
+p{
+	font-size: 40px;
+	color: white;
+	text-align: justify;
+}
+main img{
+	width: 560px;
+	height: 315px;
+	margin: 0 20px 0 70px;
+}
+table{
+	font-size: 30px;
+	text-align: center;
+}
+
+form{
+	margin: 40px 0;
+	color: white;
+}
+
+form label, form legend {
+	display: block;
+	font-size: 20px;
+	margin: 0 0 10px;
+}
+
+.input-padrão{
+	display: block;
+	margin: 0 0 20;
+}
